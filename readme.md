@@ -1,7 +1,14 @@
 # Bootcamp API - Usando Python com Flask
 
+patch-1
+Sistema de Gerenciamento de Alunos e Cursos.
+
+## Objetivo
+- Criar uma API que disponibiliza a consulta, criação, edição e exclusão de alunos e cursos.
+
 Projeto desenvolvido para disciplina de `Bootcamp Desenvolvimento e Projetos de Sistema` pelo `Grupo 1`
 - [Diagramas UML e MER](/img) 
+master
 
 ## Pré Requisitos
 - [Git](https://git-scm.com/downloads) - Para baixar o projeto e fazer o versionamento do código
